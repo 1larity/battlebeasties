@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;stardust3d-desktop&apos;&#x0D;&#x0A;- Original project: &apos;stardust3d-desktop&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     hs_err_pid484.log&#x0D;&#x0A;     hs_err_pid5104.log&#x0D;&#x0A;     hs_err_pid5480.log&#x0D;&#x0A;     hs_err_pid6284.log&#x0D;&#x0A;     hs_err_pid7528.log&#x0D;&#x0A;     hs_err_pid7648.log" description="Delete elements" element1="hs_err_pid484.log" element2="hs_err_pid5480.log" element3="hs_err_pid7528.log" element4="hs_err_pid5104.log" element5="hs_err_pid7648.log" element6="hs_err_pid6284.log" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="6" stamp="1352715146906" subPackages="false" version="1.0"/>
+</session>
